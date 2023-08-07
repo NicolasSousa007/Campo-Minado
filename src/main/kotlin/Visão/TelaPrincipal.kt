@@ -1,6 +1,5 @@
 package Visão
 
-import Modelo.Campo
 import Modelo.Tabuleiro
 import Modelo.TabuleiroEvento
 import javax.swing.JFrame
